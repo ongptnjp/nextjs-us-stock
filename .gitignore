@@ -18,7 +18,10 @@
 # misc
 .DS_Store
 .env*
-now.json
+.now
+.git
+.next
+.env.build
 
 
 # debug

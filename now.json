@@ -1,0 +1,8 @@
+{
+  "build": {
+    "env": {
+      "CLOUD_API": "@cloud_api",
+      "CLOUD_URL": "@cloud_url"
+    }
+  }
+}
